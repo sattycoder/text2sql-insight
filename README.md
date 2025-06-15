@@ -1,2 +1,2 @@
 # text2sql-insight
-A Streamlit app that converts natural language queries to SQL using Google Generative AI. It executes the SQL on an SQLite database and returns the output in a readable format. Useful for quick, no-code insights from structured data using NLP.
+Text2SQL Insight is a lightweight Streamlit-based web app that enables users to convert natural language queries into SQL using Google’s Generative AI API. It consists of three core functions: converting plain English to SQL, executing the generated SQL on an SQLite database, and returning clean, readable output to the user. Ideal for rapid database insights without writing SQL manually.
