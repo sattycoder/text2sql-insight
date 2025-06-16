@@ -37,7 +37,7 @@ Text2SQL Insight is a simple, interactive Streamlit web app that converts natura
 
 ## 📦 Directory Structure
 
-text2sql-insight/ /n
+text2sql-insight/ \n
 ├── app.py # Streamlit UI /n
 ├── check.py # Test and Check Functionalities /n
 ├── sql.py # Executes SQL query to generate a database /n
